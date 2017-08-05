@@ -12,3 +12,9 @@ Golden dictionary 有Windows, Mac OS, Linux, Android等平台的版本，支持M
 Mac os has a strong dictionary app that support 3rd party's dictionaries which can easily converted to *.dictionary file, and put in the ~/Library/dictionary/ folder.  
 And golded dictionary is also a cross-platform app that support Windows, Mac OS, Linux, Android and so on. It's compatible with dictionary files such as Mdict's.   
 But on Mac OS, some dictionaries have problems with phonetic symbol, which can be solved by install special font. Some version of Longman or Oxford dictionaries that made by some 3rd party need `Kingsoft Phonetic Unicode.ttf` to make phonetic symbol shows correctly. Some ttf file that has the same name toubled me a lot, and wasted my time until a good one is found. So I saved it here for some day.   
+
+
+## Additional  
+
+`unzip 57cfe9e58356d.jpg`  to get the correct font file or use the ttf file in the folder.   
+
